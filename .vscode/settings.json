@@ -1,0 +1,11 @@
+{
+    "editor.foldingHighlight": false,
+    "editor.highlightActiveIndentGuide": false,
+    "editor.matchBrackets": "never",
+    "editor.renderLineHighlight": "none",
+    "editor.selectionHighlight": false,
+    "editor.semanticHighlighting.enabled": false,
+    "editor.occurrencesHighlight": false,
+    "editor.copyWithSyntaxHighlighting": false,
+    "files.autoSave": "onFocusChange"
+}
